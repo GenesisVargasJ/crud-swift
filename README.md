@@ -2,6 +2,8 @@
 
 This Swift example app shows how to connect to rest api to do basic CRUD functions.
 
+![alt text](https://www.genesisvargasj.com/assets/img/crud2.png)
+
 ### Dependencies:
 
 - Alamofire
@@ -27,6 +29,8 @@ Step 1: Clone this repo
 
 Step 2: Open shell window and navigate to project folder
 
-Step 3: Run `pod install`
-
+Step 3: Run command
+```bash
+pod install
+```
 Step 4: Open `Crud Example.xcworkspace` and run the project on selected device or simulator
